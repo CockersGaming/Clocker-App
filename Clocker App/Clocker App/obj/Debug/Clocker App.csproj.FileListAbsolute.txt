@@ -1,0 +1,11 @@
+D:\freelance app\Clocker App\Clocker App\bin\Debug\Clocker App.exe.config
+D:\freelance app\Clocker App\Clocker App\bin\Debug\Clocker App.exe
+D:\freelance app\Clocker App\Clocker App\bin\Debug\Clocker App.pdb
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker App.csproj.AssemblyReference.cache
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker_App.Properties.Resources.resources
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker App.csproj.GenerateResource.cache
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker App.csproj.CoreCompileInputs.cache
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker App.exe
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker App.pdb
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker_App.fmLoading.resources
+D:\freelance app\Clocker App\Clocker App\obj\Debug\Clocker_App.fmHome.resources
